@@ -9,7 +9,7 @@ Computer Science student at Rajamangala University of Technology Phra Nakhon wit
 * 🌍  I'm based in Bangkok , Thailand
 * 🖥️  See my portfolio at [Jiranon-K](http://jiranonk-kuntong-46.vercel.app/)
 * ✉️  You can contact me at [jiranon46@gmail.com](mailto:jiranon46@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning Python
 * ⚡  
 
 ### Skills
