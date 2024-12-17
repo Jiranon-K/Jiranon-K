@@ -28,3 +28,6 @@ Computer Science student at Rajamangala University of Technology Phra Nakhon wit
 
 <div width="100%" align="center"><a href="https://github.com/Jiranon-K/Portfolio-tl" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiranon-K&repo=Portfolio-tl&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Jiranon-K/Whitelist-Anime-Website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiranon-K&repo=Whitelist-Anime-Website&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+### Badges
+
+<a href="https://github.com/Jiranon-K" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiranon-K&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
