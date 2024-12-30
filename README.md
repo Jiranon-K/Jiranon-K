@@ -1,7 +1,7 @@
 Hi 👋 My name is Jiranon Kuntong
 ================================
 
-Looking for an internship as a software engineer.
+Looking for an internship.
 -------------------------------------------------
 
 Computer Science student at Rajamangala University of Technology Phra Nakhon with a passion for innovation and problem-solving.
