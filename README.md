@@ -27,9 +27,4 @@ src="https://img.shields.io/github/followers/Jiranon-K?logo=github&style=for-the
 
 <a href="https://github.com/Jiranon-K" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiranon-K&langs_count=12&title_color=FF0000&text_color=ffffff&icon_color=0791b2&bg_color=000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Jiranon-K/JIRANON-K.github.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiranon-K&repo=JIRANON-K.github.io&title_color=FF0000&text_color=ffffff&icon_color=0002&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Jiranon-K/Whitelist-Anime-Website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiranon-K&repo=Whitelist-Anime-Website&title_color=FF0000&text_color=ffffff&icon_color=000&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-
-<div width="100%" align="center"><a href="https://github.com/Jiranon-K/ImageToText" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiranon-K&repo=ImageToText&title_color=FF0000&text_color=ffffff&icon_color=000&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
