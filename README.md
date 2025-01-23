@@ -28,3 +28,7 @@ src="https://img.shields.io/github/followers/Jiranon-K?logo=github&style=for-the
 <a href="https://github.com/Jiranon-K" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiranon-K&langs_count=12&title_color=FF0000&text_color=ffffff&icon_color=0791b2&bg_color=000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
+### Badges
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7ugSlmtBWNMAgTpdvBPcIh?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
