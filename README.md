@@ -18,7 +18,7 @@
 
 ## 🌟 Magical Profile | プロフィール
 
-<img align="right" width="150" src="https://media1.tenor.com/m/yP9rO5R22n4AAAAC/roxy-migurdia-mushoku-tensei.gif"/>
+
 
 > *"In the realm of code, every bug is just an undiscovered spell waiting to be mastered"*
 
@@ -75,7 +75,7 @@
 
 <div align="center">
   
-![Spells Cast (Languages)](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiranon-K&langs_count=6&title_color=9D72FF&text_color=ffffff&icon_color=9D72FF&bg_color=1a1b27&hide_border=true&locale=en&custom_title=Top%20Spells%20Cast&layout=compact)
+![Spells Cast (Languages)](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiranon-K&langs_count=6&layout=compact&count_private=true&title_color=9D72FF&text_color=ffffff&icon_color=9D72FF&bg_color=1a1b27&hide_border=true&v=1)
 
 </div>
 
@@ -94,13 +94,13 @@
 </div>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/71Tph1emMq4AAAAi/crystal-sakura.gif" width="30">
+
   
   *"Magic is just programming in the language of the universe"*
   
-  <img src="https://media1.tenor.com/m/71Tph1emMq4AAAAi/crystal-sakura.gif" width="30">
+  
 </div>
 
-<img src="https://media1.tenor.com/m/FGrXBYOsHHgAAAAC/sakura-falling.gif" width="100%">
+
 
 <!-- Enchanted by Jiranon-K on 2025-02-05 21:28:47 UTC -->
