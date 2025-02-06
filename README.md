@@ -11,7 +11,7 @@
 </div>
 
 
-![jump-happy](https://github.com/user-attachments/assets/bd213efd-bd3c-45a7-af2f-aff4f88b14a8)
+![thinking-hmm](https://github.com/user-attachments/assets/9e195bdf-27d7-4355-85dc-d9a97071ebea)
 
 
 
