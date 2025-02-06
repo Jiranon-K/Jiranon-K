@@ -1,6 +1,7 @@
 <div align="center">
   
-![roxy-migurdia](https://github.com/user-attachments/assets/dfaf3337-8fc7-4842-bcdd-3acc462b012b)
+![roxy-migurdia-anime](https://github.com/user-attachments/assets/7919a10a-b747-483c-b4cd-ed35810125a2)
+
 
 
 # ⭐ Welcome to My Magical Repository ⭐
