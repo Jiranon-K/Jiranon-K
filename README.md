@@ -1,6 +1,7 @@
 <div align="center">
   
-![banner-image](https://github.com/user-attachments/assets/97e115cc-404d-408c-b190-72a5e0e95a17)
+![roxy-migurdia](https://github.com/user-attachments/assets/dfaf3337-8fc7-4842-bcdd-3acc462b012b)
+
 
 # ⭐ Welcome to My Magical Repository ⭐
 
