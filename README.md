@@ -23,7 +23,7 @@
 > *"In the realm of code, every bug is just an undiscovered spell waiting to be mastered"*
 
 * ✨ Conjuring code from `THAILAND`
-* 📚 Apprentice at `Rajamangala University of Technology Phra Nakhon`
+* 📚 Apprentice at `                            `
 * 🎭 Grimoire: [Magical Portfolio](http://jiranon-k.github.io/)
 * 📜 Scroll of Contact: [jiranon46@gmail.com](mailto:jiranon46@gmail.com)
 * 🔮 Currently studying the arts of `Python`
