@@ -49,6 +49,7 @@
   <img src="https://img.shields.io/badge/Java-B57DFF?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-C183FF?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-CD89FF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Php-CD89FF?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 ### ✨ Enchantment Tools
