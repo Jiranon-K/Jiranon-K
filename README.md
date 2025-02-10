@@ -78,7 +78,7 @@
 
 <div align="center">
   
-![Spells Cast (Languages)](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiranon-K&langs_count=6&layout=compact&count_private=true&title_color=9D72FF&text_color=ffffff&icon_color=9D72FF&bg_color=1a1b27&hide_border=true&v=3)
+![Spells Cast (Languages)](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiranon-K&langs_count=6&layout=compact&count_private=true&title_color=9D72FF&text_color=ffffff&icon_color=9D72FF&bg_color=1a1b27&hide_border=true&v=2)
 
 </div>
 
