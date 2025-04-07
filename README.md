@@ -28,7 +28,7 @@
 * 📚 Apprentice at `                            `
 * 🎭 Grimoire: [Magical Portfolio](http://jiranon-k.github.io/)
 * 📜 Scroll of Contact: [jiranon46@gmail.com](mailto:jiranon46@gmail.com)
-* 🔮 Currently studying the arts of `TypeScript`
+* 🔮 Currently studying the arts of `TypeScript&AngularJS`
 * ⚡ Last Enchantment: `2025-02-05 21:28:47 UTC`
 
 <div align="center">
