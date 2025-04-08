@@ -44,6 +44,8 @@
 
 ### 🎭 Magical Languages
 <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-9D72FF?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-AA77FF?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-9D72FF?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-AA77FF?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-B57DFF?style=for-the-badge&logo=java&logoColor=white"/>
@@ -54,8 +56,6 @@
 
 ### ✨ Enchantment Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-9D72FF?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-AA77FF?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind-B57DFF?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-C183FF?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
