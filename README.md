@@ -1,6 +1,6 @@
 <div align="center">
   
-![roxy-migurdia-anime](https://github.com/user-attachments/assets/7919a10a-b747-483c-b4cd-ed35810125a2)
+
 
 
 
