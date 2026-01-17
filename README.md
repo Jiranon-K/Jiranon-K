@@ -26,9 +26,9 @@
 
 * ✨ Conjuring code from `THAILAND`
 * 📚 Apprentice at ``
-* 🎭 Grimoire: [Magical Portfolio](http://jiranon-k.github.io/)
+* 🎭 Grimoire: [Magical Portfolio]()
 * 📜 Scroll of Contact: [jiranon46@gmail.com](mailto:jiranon46@gmail.com)
-* 🔮 Currently studying the arts of `TypeScript & Angular`
+* 🔮 Currently studying the arts of ``
 * ⚡ Last Enchantment: `2025-02-05 21:28:47 UTC`
 
 <div align="center">
@@ -47,8 +47,6 @@
   <img src="https://img.shields.io/badge/HTML5-9D72FF?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-AA77FF?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-9D72FF?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-AA77FF?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-B57DFF?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-C183FF?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-CD89FF?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Php-CD89FF?style=for-the-badge&logo=php&logoColor=white"/>
