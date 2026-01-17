@@ -42,27 +42,37 @@
 
 <div align="center">
 
-### 🎭 Magical Languages
+### 📜 Magical Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-9D72FF?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-AA77FF?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-C183FF?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-CD89FF?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Php-CD89FF?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-9D72FF?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-AA77FF?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-B57DFF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Php-C183FF?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-CD89FF?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-D499FF?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### ✨ Enchantment Tools
+### 🏰 Frameworks & Libraries
 <p align="center">
+  <img src="https://img.shields.io/badge/Next.js-9D72FF?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-AA77FF?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind-B57DFF?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-C183FF?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### 🔮 Artifacts & Relics
+### 🔮 Backend & Data Sorcery
+<p align="center">
+  <img src="https://img.shields.io/badge/Express.js-9D72FF?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-AA77FF?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongoose-B57DFF?style=for-the-badge&logo=mongoose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-C183FF?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🛠 Artifacts & Relics
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-9D72FF?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-AA77FF?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-B57DFF?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-C183FF?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-B57DFF?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 </div>
@@ -100,7 +110,3 @@
   
   
 </div>
-
-
-
-<!-- Enchanted by Jiranon-K on 2025-02-05 21:28:47 UTC -->
