@@ -1,48 +1,39 @@
 <div align="center">
-  
 
 
-
-
-# ⭐ Welcome to My Magical Repository ⭐
+# Welcome to My Repository
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D72FF&center=true&vCenter=true&width=435&lines=Aspiring+Magic+Engineer;Innovation+Apprentice;Problem+Solving+Wizard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D72FF&center=true&vCenter=true&width=435&lines=Junior+Software+Developer;Full-Stack;Continuous+Learner" alt="Typing SVG" />
 </div>
-
 
 ![thinking-hmm](https://github.com/user-attachments/assets/9e195bdf-27d7-4355-85dc-d9a97071ebea)
 
-
-
-
 </div>
 
-## 🌟 Magical Profile | プロフィール
+## 🌟 About Me | プロフィール
 
+> _"First, solve the problem. Then, write the code."_ — John Johnson
 
-
-> *"In the realm of code, every bug is just an undiscovered spell waiting to be mastered"*
-
-* ✨ Conjuring code from `THAILAND`
-* 📚 Apprentice at ``
-* 🎭 Grimoire: [Magical Portfolio]()
-* 📜 Scroll of Contact: [jiranon46@gmail.com](mailto:jiranon46@gmail.com)
-* 🔮 Currently studying the arts of ``
-* ⚡ Last Enchantment: `2025-02-05 21:28:47 UTC`
+- 📍 Based in `Thailand`
+- 🎨 Portfolio: [My Portfolio](https://jiranon-k.yozora.me/)
+- 📧 Contact: [jiranon46@gmail.com](mailto:jiranon46@gmail.com)
+- 📖 Currently learning `GraphQL`
+- 🕐 Last Active: `2025-02-05 21:28:47 UTC`
 
 <div align="center">
   
-[![Followers Spell](https://img.shields.io/github/followers/Jiranon-K?logo=github&style=for-the-badge&color=9D72FF&labelColor=1a1b27)](https://www.github.com/Jiranon-K)
-[![Magic Points](https://komarev.com/ghpvc/?username=Jiranon-K&style=for-the-badge&color=9D72FF&label=MAGIC+POINTS)](#)
+[![Followers](https://img.shields.io/github/followers/Jiranon-K?logo=github&style=for-the-badge&color=9D72FF&labelColor=1a1b27)](https://www.github.com/Jiranon-K)
+[![Profile Views](https://komarev.com/ghpvc/?username=Jiranon-K&style=for-the-badge&color=9D72FF&label=PROFILE+VIEWS)](#)
 
 </div>
 
-## 💫 Arcane Arts & Abilities | スキル
+## 💫 Tech Stack | スキル
 
 <div align="center">
 
-### 📜 Magical Languages
+### 📝 Languages
+
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-9D72FF?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-AA77FF?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -52,7 +43,8 @@
   <img src="https://img.shields.io/badge/CSS3-D499FF?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 🏰 Frameworks & Libraries
+### 🏗 Frameworks & Libraries
+
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-9D72FF?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-AA77FF?style=for-the-badge&logo=angular&logoColor=white"/>
@@ -60,7 +52,8 @@
   <img src="https://img.shields.io/badge/Bootstrap-C183FF?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### 🔮 Backend & Data Sorcery
+### 🗄 Backend & Database
+
 <p align="center">
   <img src="https://img.shields.io/badge/Express.js-9D72FF?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-AA77FF?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -68,7 +61,8 @@
   <img src="https://img.shields.io/badge/MySQL-C183FF?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🛠 Artifacts & Relics
+### 🛠 Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-9D72FF?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-AA77FF?style=for-the-badge&logo=git&logoColor=white"/>
@@ -77,19 +71,7 @@
 
 </div>
 
-## 🌌 Magical Statistics | 統計
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jiranon-K&show_icons=true&hide=&count_private=true&title_color=9D72FF&text_color=ffffff&icon_color=9D72FF&bg_color=1a1b27&hide_border=true&show_icons=true" alt="Jiranon-K's GitHub stats" />
-</div>
-
-<div align="center">
-  
-![Spells Cast (Languages)](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiranon-K&langs_count=6&layout=compact&count_private=true&title_color=9D72FF&text_color=ffffff&icon_color=9D72FF&bg_color=1a1b27&hide_border=true&v=5)
-
-</div>
-
-## 🎭 Magical Network | ネットワーク
+## 🎭 Connect With Me | ネットワーク
 
 <div align="center">
   <a href="https://discord.com/users/ninelie_x">
@@ -105,8 +87,6 @@
 
 <div align="center">
 
-  
-  *"Magic is just programming in the language of the universe"*
-  
-  
+_"The best way to predict the future is to create it."_ — Abraham Lincoln
+
 </div>
