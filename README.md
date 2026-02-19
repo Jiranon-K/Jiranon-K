@@ -23,7 +23,6 @@
 <div align="center">
   
 [![Followers](https://img.shields.io/github/followers/Jiranon-K?logo=github&style=for-the-badge&color=9D72FF&labelColor=1a1b27)](https://www.github.com/Jiranon-K)
-[![Profile Views](https://komarev.com/ghpvc/?username=Jiranon-K&style=for-the-badge&color=9D72FF&label=PROFILE+VIEWS)](#)
 
 </div>
 
