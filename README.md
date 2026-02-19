@@ -1,6 +1,5 @@
 <div align="center">
 
-
 # Welcome to My Repository
 
 <div align="center">
@@ -18,7 +17,7 @@
 - 📍 Based in `Thailand`
 - 🎨 Portfolio: [My Portfolio](https://jiranon-k.yozora.me/)
 - 📧 Contact: [jiranon46@gmail.com](mailto:jiranon46@gmail.com)
-- 📖 Currently learning `GraphQL`
+- 📖 Currently learning `GraphQL` & `Apollo`
 - 🕐 Last Active: `2025-02-05 21:28:47 UTC`
 
 <div align="center">
@@ -50,6 +49,7 @@
   <img src="https://img.shields.io/badge/Angular-AA77FF?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind-B57DFF?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-C183FF?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apollo-CD89FF?style=for-the-badge&logo=apollographql&logoColor=white"/>
 </p>
 
 ### 🗄 Backend & Database
@@ -59,6 +59,7 @@
   <img src="https://img.shields.io/badge/MongoDB-AA77FF?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mongoose-B57DFF?style=for-the-badge&logo=mongoose&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-C183FF?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-CD89FF?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
 
 ### 🛠 Tools
