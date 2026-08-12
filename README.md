@@ -8,7 +8,6 @@
   </p>
   <p>
     <img src="https://img.shields.io/github/followers/Jiranon-K?logo=github&style=for-the-badge&color=FF9292&labelColor=201E1D" alt="followers" />
-    <img src="https://komarev.com/ghpvc/?username=Jiranon-K&style=for-the-badge&color=FF9292&label=VIEWS" alt="views" />
   </p>
 </div>
 
